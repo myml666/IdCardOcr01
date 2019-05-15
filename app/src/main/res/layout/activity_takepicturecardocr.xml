@@ -9,6 +9,9 @@
         android:id="@+id/camera"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
+    <com.itfitness.idcardocr01.widget.MaskView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
     <View
         android:id="@+id/view_takepicture"
         android:background="@drawable/shape_camera"
